@@ -1,7 +1,7 @@
 # FOREST ARMY - libcurl Installation Guide
 
 ## Description
-This guide provides instructions on how to install and set up the `libcurl-impersonate-chrome.so.4` library on Termux for the Midas project.
+This guide provides instructions on how to install and set up the `libcurl-impersonate-chrome.so.4` library on Termux for the Airdrop Projects.
 
 ## Installation & Setup
 
