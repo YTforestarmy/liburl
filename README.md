@@ -8,7 +8,7 @@ This guide provides instructions on how to install and set up the `libcurl-imper
 1. **Download the Library:**
    - Download the appropriate version of `libcurl-impersonate-chrome.so.4` for your system using `wget`:
      ```bash
-     wget https://github.com/curl/curl-impersonate/releases/download/v0.6.1/libcurl-impersonate-v0.6.1.aarch64-linux-gnu.tar.gz
+     wget https://github.com/lwthiker/curl-impersonate/releases/download/v0.6.1/libcurl-impersonate-v0.6.1.aarch64-linux-gnu.tar.gz
      ```
 
 2. **Extract the Files:**
