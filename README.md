@@ -1,4 +1,4 @@
-# Midas Project - libcurl Installation Guide
+# FOREST ARMY - libcurl Installation Guide
 
 ## Description
 This guide provides instructions on how to install and set up the `libcurl-impersonate-chrome.so.4` library on Termux for the Midas project.
@@ -39,12 +39,6 @@ This guide provides instructions on how to install and set up the `libcurl-imper
    - Run the following to check if the library is linked correctly:
      ```bash
      ldd /data/data/com.termux/files/usr/lib/python3.12/site-packages/curl_cffi/_wrapper.abi3.so
-     ```
-
-7. **Run Your Python Script:**
-   - Now, run your Python script:
-     ```bash
-     python main.py
      ```
 
 ## Troubleshooting
